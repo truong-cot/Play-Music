@@ -99,10 +99,10 @@ body {
     height: 40px;
 }
 
-.control .btn-toggle-play i {
+/* .control .btn-toggle-play i {
     z-index: 2;
     padding: 16px;
-}
+} */
 
 /* dashboard input (style input range) */
 .progress {
