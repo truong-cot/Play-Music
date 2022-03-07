@@ -1,0 +1,15 @@
+@media (max-width: 700px) {
+    .container {
+        position: relative;
+        margin: 0 auto;
+        max-width: 400px;
+    }
+    
+    .dashboard {
+        max-width: 400px;
+        margin-top: 12px;
+    }
+    .listMusic {
+        margin-top: 468px;
+    }
+}
